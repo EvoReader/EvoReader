@@ -25,6 +25,8 @@ which has the following benefits:
 
 Please see the [Installation Guide](./0-install-guide.md) .
 
+![Install EvoReader](./images/install-guide/install-guide-0.png)
+
 ----------
 
 在 [Evo Reader Web](https://evoreader.github.io/) 中，你就可以使用 EvoReader 的全部功能。
