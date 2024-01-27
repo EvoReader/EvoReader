@@ -20,3 +20,12 @@
 
 ## Congratulations! Now, you can use EvoReader to directly open your local epub files.
 恭喜你！现在，你可以使用 EvoReader 直接打开你的本地 epub 文件了。
+
+
+
+## You can also install EvoReader on Mac or Linux
+See: [Choose an app to open a file on Mac - Apple Support](https://support.apple.com/guide/mac-help/choose-an-app-to-open-a-file-on-mac-mh35597/mac)
+
+你同样可以在 Mac 上使用 EvoReader:
+
+![open .epub file on Mac](./images/install-guide/install-guide-4.png)
